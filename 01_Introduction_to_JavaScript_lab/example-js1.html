@@ -1,0 +1,22 @@
+<form>
+    Number1: <input type="text" name="num1" /> <br>
+    Number2: <input type="text" name="num2" /> <br>
+    sum: <input type="text" name="sum" /> <br>
+    <input type="button" value="Sum" onclick="calcSum()" />
+</form>
+
+<script>
+    function calcSum() {
+        //we get the element by name 'num1', because it is an array we get the first [0]
+        //we get the value and put it in a variable
+        let num1 = document.getElementsByName('num1')[0].value;
+        let num2 = document.getElementsByName('num2')[0].value;
+
+        //with Number(num1) we change the variable to number and we sum them
+        let sum = Number(num1) + Number(num2);
+
+        //we put the value of the variable sum to the value of input field that we get with document.getElementsByName('sum')[0].value
+        document.getElementsByName('sum')[0].value = sum;
+    }
+</script>
+
