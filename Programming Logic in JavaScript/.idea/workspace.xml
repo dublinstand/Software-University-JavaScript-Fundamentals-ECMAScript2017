@@ -21,88 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="10_chessBoard.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/10_chessBoard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="58" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="58" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chessboard.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/chessboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.096774">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01_helloJavaScript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/01_helloJavaScript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02_areaAndPerimeter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/02_areaAndPerimeter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04_gradsToDegrees.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/04_gradsToDegrees.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_compoundInterest.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/05_compoundInterest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06_rounding.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/06_rounding.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="07_imperialUnits.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/07_imperialUnits.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08_nowPlaying.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="08_nowPlaying.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/08_nowPlaying.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23157895">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -127,11 +45,95 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_distanceOverTime.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/03_distanceOverTime.js">
+      <file leaf-file-name="09_composeTag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/09_composeTag.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_assignProperties.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/10_assignProperties.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11_lastMonth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/11_lastMonth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_biggestOf3Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/01_biggestOf3Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_pointInRectangle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/02_pointInRectangle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_oddNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/03_oddNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_triangleOfDollars.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/04_triangleOfDollars.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_moviePrices.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/05_moviePrices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.78157896">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -179,6 +181,14 @@
         <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/06_rounding.js" />
         <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/07_imperialUnits.js" />
         <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/08_nowPlaying.js" />
+        <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/09_composeTag.js" />
+        <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/10_assignProperties.js" />
+        <option value="$PROJECT_DIR$/Data-Expressions-Statements-Exercises/11_lastMonth.js" />
+        <option value="$PROJECT_DIR$/Conditional-Statements-and-Loops/01_biggestOf3Numbers.js" />
+        <option value="$PROJECT_DIR$/Conditional-Statements-and-Loops/02_pointInRectangle.js" />
+        <option value="$PROJECT_DIR$/Conditional-Statements-and-Loops/03_oddNumbers.js" />
+        <option value="$PROJECT_DIR$/Conditional-Statements-and-Loops/04_triangleOfDollars.js" />
+        <option value="$PROJECT_DIR$/Conditional-Statements-and-Loops/05_moviePrices.js" />
       </list>
     </option>
   </component>
@@ -246,7 +256,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Data-Expressions-Statements-Exercises" />
+              <option name="myItemId" value="Conditional-Statements-and-Loops" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -269,20 +279,20 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.08_nowPlaying.js">
-    <configuration default="false" name="04_gradsToDegrees.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="04_gradsToDegrees.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
+  <component name="RunManager" selected="Node.js.05_moviePrices.js">
+    <configuration default="false" name="11_lastMonth.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="11_lastMonth.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
       <method />
     </configuration>
-    <configuration default="false" name="05_compoundInterest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_compoundInterest.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
+    <configuration default="false" name="02_pointInRectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="02_pointInRectangle.js" working-dir="$PROJECT_DIR$/Conditional-Statements-and-Loops">
       <method />
     </configuration>
-    <configuration default="false" name="06_rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="06_rounding.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
+    <configuration default="false" name="03_oddNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_oddNumbers.js" working-dir="$PROJECT_DIR$/Conditional-Statements-and-Loops">
       <method />
     </configuration>
-    <configuration default="false" name="07_imperialUnits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="07_imperialUnits.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
+    <configuration default="false" name="04_triangleOfDollars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="04_triangleOfDollars.js" working-dir="$PROJECT_DIR$/Conditional-Statements-and-Loops">
       <method />
     </configuration>
-    <configuration default="false" name="08_nowPlaying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="08_nowPlaying.js" working-dir="$PROJECT_DIR$/Data-Expressions-Statements-Exercises">
+    <configuration default="false" name="05_moviePrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_moviePrices.js" working-dir="$PROJECT_DIR$/Conditional-Statements-and-Loops">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -318,19 +328,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04_gradsToDegrees.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05_compoundInterest.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06_rounding.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07_imperialUnits.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08_nowPlaying.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.11_lastMonth.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02_pointInRectangle.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03_oddNumbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04_triangleOfDollars.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05_moviePrices.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.08_nowPlaying.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07_imperialUnits.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06_rounding.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05_compoundInterest.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04_gradsToDegrees.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05_moviePrices.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04_triangleOfDollars.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03_oddNumbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02_pointInRectangle.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.11_lastMonth.js" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +366,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -571,14 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33289474">
-          <caret line="559" column="9" selection-start-line="559" selection-start-column="9" selection-end-line="559" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/06_rounding.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -601,8 +603,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/08_nowPlaying.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23157895">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/09_composeTag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/10_assignProperties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Expressions-Statements-Exercises/11_lastMonth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33289474">
+          <caret line="535" column="0" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/01_biggestOf3Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/02_pointInRectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/03_oddNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/04_triangleOfDollars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional-Statements-and-Loops/05_moviePrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78157896">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
