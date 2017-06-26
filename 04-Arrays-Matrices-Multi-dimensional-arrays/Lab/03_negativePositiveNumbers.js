@@ -3,6 +3,22 @@
 //The output is printed on the console, each element on a new line.
 
 
-function negativePositiveNumbers(){
+function negativePositiveNumbers(input){
+    input = input.map(Number);
 
+    let result = [];
+
+    for (let i of input){
+        if (i < 0){
+            result.unshift(i);
+        }
+        else {
+            result.push(i)
+        }
+    }
+
+    return result.join('\n');
 }
+
+console.log(negativePositiveNumbers(['7', '-2', '8', '9']));
+console.log(negativePositiveNumbers(['3', '-2', '0', '-1']));
