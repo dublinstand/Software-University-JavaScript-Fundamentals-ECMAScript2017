@@ -109,8 +109,6 @@ function radioCrystals(input){
         }
 
         console.log(`Finished crystal ${size} microns`);
-
-
     }
 
     function cut(size){
