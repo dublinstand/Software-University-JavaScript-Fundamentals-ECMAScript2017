@@ -7,10 +7,8 @@
 //The output is the array itself, with each element printed on a new line. In case of an empty array, just print “Empty”.
 
 
-
 function addAndRemoveElementsFromArray(commands){
     let arr = [];
-
 
     for (let i = 0; i < commands.length; i++) {
         if(commands[i] == 'add'){

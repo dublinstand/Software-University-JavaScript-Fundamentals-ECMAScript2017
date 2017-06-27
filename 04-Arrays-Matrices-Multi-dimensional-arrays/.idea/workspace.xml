@@ -132,8 +132,8 @@
       <file leaf-file-name="03_addAndRemoveElementsFromArray.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82631576">
-              <caret line="33" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.28947368">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -385,7 +385,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
@@ -521,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82631576">
-          <caret line="33" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.28947368">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
