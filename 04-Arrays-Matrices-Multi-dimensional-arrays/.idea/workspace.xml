@@ -33,42 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_firstAndLastKNumbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/04_firstAndLastKNumbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_lastKNumbersSequence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/05_lastKNumbersSequence.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06_processOddNumbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/06_processOddNumbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="07_smallestTwoNumbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/07_smallestTwoNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,14 +93,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_addAndRemoveElementsFromArray.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03_addAndRemoveElementsFromArray.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28947368">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_rotateArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/04_rotateArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_extractNonDecreasingSubsequenceFromArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17368421">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +164,10 @@
         <option value="$PROJECT_DIR$/Exercises/01_printArrayWithGivenDelimiter.js" />
         <option value="$PROJECT_DIR$/Exercises/02_printEveryNthElementFromArray.js" />
         <option value="$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js" />
+        <option value="$PROJECT_DIR$/Exercises/04_rotateArray.js" />
+        <option value="$PROJECT_DIR$/Exercises/05_extractNondecreasingSubsequenceFromArray.js" />
+        <option value="$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray.js" />
+        <option value="$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" />
       </list>
     </option>
   </component>
@@ -254,20 +256,25 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.03_addAndRemoveElementsFromArray.js">
-    <configuration default="false" name="08_biggestElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="08_biggestElement.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="09_diagonalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="09_diagonalSum.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="01_printArrayWithGivenDelimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01_printArrayWithGivenDelimiter.js" working-dir="$PROJECT_DIR$/Exercises">
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\training\SoftUni\JavaScript\JS Fundamentals - ECMAScript 2017\04-Arrays-Matrices-Multi-dimensional-arrays\Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js">
     <configuration default="false" name="02_printEveryNthElementFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="02_printEveryNthElementFromArray.js" working-dir="$PROJECT_DIR$/Exercises">
       <method />
     </configuration>
     <configuration default="false" name="03_addAndRemoveElementsFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_addAndRemoveElementsFromArray.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="04_rotateArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="04_rotateArray.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="05_extractNonDecreasingSubsequenceFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_extractNonDecreasingSubsequenceFromArray.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" working-dir="$PROJECT_DIR$/Exercises">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -303,19 +310,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.01_printArrayWithGivenDelimiter.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04_rotateArray.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05_extractNonDecreasingSubsequenceFromArray.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.01_printArrayWithGivenDelimiter.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05_extractNonDecreasingSubsequenceFromArray.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04_rotateArray.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -336,22 +343,22 @@
     <frame x="2391" y="-9" width="2418" height="1308" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39983094" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39983094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -521,11 +528,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28947368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/04_rotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/05_extractNonDecreasingSubsequenceFromArray_2ndSolution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17368421">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
