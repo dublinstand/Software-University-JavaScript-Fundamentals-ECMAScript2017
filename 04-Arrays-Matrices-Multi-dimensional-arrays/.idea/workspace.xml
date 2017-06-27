@@ -21,35 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_sumFirstLast.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/01_sumFirstLast.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="02_evenPositionElement.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/02_evenPositionElement.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03_negativePositiveNumbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/03_negativePositiveNumbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -117,11 +93,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="09_diagonalSum.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09_diagonalSum.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/09_diagonalSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63684213">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_printArrayWithGivenDelimiter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/01_printArrayWithGivenDelimiter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_printEveryNthElementFromArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/02_printEveryNthElementFromArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_addAndRemoveElementsFromArray.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82631576">
+              <caret line="33" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -151,6 +163,9 @@
         <option value="$PROJECT_DIR$/Lab/07_smallestTwoNumbers.js" />
         <option value="$PROJECT_DIR$/Lab/08_biggestElement.js" />
         <option value="$PROJECT_DIR$/Lab/09_diagonalSum.js" />
+        <option value="$PROJECT_DIR$/Exercises/01_printArrayWithGivenDelimiter.js" />
+        <option value="$PROJECT_DIR$/Exercises/02_printEveryNthElementFromArray.js" />
+        <option value="$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js" />
       </list>
     </option>
   </component>
@@ -209,8 +224,18 @@
               <option name="myItemId" value="04-Arrays-Matrices-Multi-dimensional-arrays" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab" />
+              <option name="myItemId" value="04-Arrays-Matrices-Multi-dimensional-arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04-Arrays-Matrices-Multi-dimensional-arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -229,20 +254,20 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.09_diagonalSum.js">
-    <configuration default="false" name="05_lastKNumbersSequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_lastKNumbersSequence.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="06_processOddNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="06_processOddNumbers.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="07_smallestTwoNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="07_smallestTwoNumbers.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.03_addAndRemoveElementsFromArray.js">
     <configuration default="false" name="08_biggestElement.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="08_biggestElement.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
     <configuration default="false" name="09_diagonalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="09_diagonalSum.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="01_printArrayWithGivenDelimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01_printArrayWithGivenDelimiter.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="02_printEveryNthElementFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="02_printEveryNthElementFromArray.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="03_addAndRemoveElementsFromArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_addAndRemoveElementsFromArray.js" working-dir="$PROJECT_DIR$/Exercises">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -278,19 +303,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05_lastKNumbersSequence.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.06_processOddNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07_smallestTwoNumbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01_printArrayWithGivenDelimiter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07_smallestTwoNumbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.06_processOddNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05_lastKNumbersSequence.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03_addAndRemoveElementsFromArray.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02_printEveryNthElementFromArray.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01_printArrayWithGivenDelimiter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.09_diagonalSum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.08_biggestElement.js" />
       </list>
     </recent_temporary>
   </component>
@@ -358,12 +383,20 @@
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
         <watch expression="matrix" />
+        <watch expression="commands[i]" />
+        <watch expression="arr" />
+        <watch expression="arr === 'undefined'" />
       </configuration>
     </watches-manager>
   </component>
@@ -458,8 +491,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab/09_diagonalSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63684213">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/01_printArrayWithGivenDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/02_printEveryNthElementFromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/03_addAndRemoveElementsFromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82631576">
+          <caret line="33" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
