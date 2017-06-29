@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/Lab/10_matchAllWords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11_simpleEmailValidation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11_simpleEmailValidation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/11_simpleEmailValidation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63684213">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_concatenateReversed.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/02_concatenateReversed.js">
+      <file leaf-file-name="12_expressionSplit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab/12_expressionSplit.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -69,11 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_countOccurrences.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/03_countOccurrences.js">
+      <file leaf-file-name="13_matchTheDates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab/13_matchTheDates.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_parseTheEmployeeData.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab/14_parseTheEmployeeData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8105263">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,18 +141,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07_usernames.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/07_usernames.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="41" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -165,6 +165,9 @@
         <option value="$PROJECT_DIR$/Lab/09_htmlEscape.js" />
         <option value="$PROJECT_DIR$/Lab/10_matchAllWords.js" />
         <option value="$PROJECT_DIR$/Lab/11_simpleEmailValidation.js" />
+        <option value="$PROJECT_DIR$/Lab/12_expressionSplit.js" />
+        <option value="$PROJECT_DIR$/Lab/13_matchTheDates.js" />
+        <option value="$PROJECT_DIR$/Lab/14_parseTheEmployeeData.js" />
       </list>
     </option>
   </component>
@@ -244,20 +247,20 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.11_simpleEmailValidation.js">
-    <configuration default="false" name="06_usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Lab/07_usernames.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="08_censorship.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="08_censorship.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="09_htmlEscape.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="09_htmlEscape.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.14_parseTheEmployeeData.js">
     <configuration default="false" name="10_matchAllWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="10_matchAllWords.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
     <configuration default="false" name="11_simpleEmailValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="11_simpleEmailValidation.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="12_expressionSplit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="12_expressionSplit.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="13_matchTheDates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="13_matchTheDates.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="14_parseTheEmployeeData.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="14_parseTheEmployeeData.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -293,19 +296,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.06_usernames.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.08_censorship.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.09_htmlEscape.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.10_matchAllWords.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.10_matchAllWords.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.12_expressionSplit.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.13_matchTheDates.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.10_matchAllWords.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.09_htmlEscape.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.08_censorship.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.06_usernames.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.13_matchTheDates.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.12_expressionSplit.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10_matchAllWords.js" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +334,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -363,16 +366,15 @@
           <url>file://$PROJECT_DIR$/Lab/02_concatenateReversed.js</url>
           <line>8</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lab/13_matchTheDates.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="censor" />
-        <watch expression="lengthOfCensor" />
-        <watch expression="sentence.indexOf(censorWord)" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab/01_printLetters.js">
@@ -465,20 +467,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/10_matchAllWords.js">
+    <entry file="file://$PROJECT_DIR$/Lab/11_simpleEmailValidation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/11_simpleEmailValidation.js">
+    <entry file="file://$PROJECT_DIR$/Lab/10_matchAllWords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63684213">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/12_expressionSplit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/13_matchTheDates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/14_parseTheEmployeeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8105263">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
