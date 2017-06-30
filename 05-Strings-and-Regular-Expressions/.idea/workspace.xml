@@ -93,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15_formFiller.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15_formFiller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/15_formFiller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6932271">
+            <state vertical-scroll-proportion="0.0">
               <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_extractText.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/04_extractText.js">
+      <file leaf-file-name="01_splitStringWithDelimiter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/01_splitStringWithDelimiter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -117,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_aggregateTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/05_aggregateTable.js">
+      <file leaf-file-name="02_repeatStringNTimes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/02_repeatStringNTimes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08_censorship.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab/08_censorship.js">
+      <file leaf-file-name="03_checkStringStartsWithGivenSubstring..js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/03_checkStringStartsWithGivenSubstring..js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.7808765">
+              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -169,6 +169,10 @@
         <option value="$PROJECT_DIR$/Lab/13_matchTheDates.js" />
         <option value="$PROJECT_DIR$/Lab/14_parseTheEmployeeData.js" />
         <option value="$PROJECT_DIR$/Lab/15_formFiller.js" />
+        <option value="$PROJECT_DIR$/Exercise.js" />
+        <option value="$PROJECT_DIR$/Exercises/01_splitStringWithDelimiter.js" />
+        <option value="$PROJECT_DIR$/Exercises/02_repeatStringNTimes.js" />
+        <option value="$PROJECT_DIR$/Exercises/03_checkStringStartsWithGivenSubstring..js" />
       </list>
     </option>
   </component>
@@ -231,6 +235,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05-Strings-and-Regular-Expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05-Strings-and-Regular-Expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -248,20 +266,20 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.15_formFiller.js">
-    <configuration default="false" name="11_simpleEmailValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="11_simpleEmailValidation.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="12_expressionSplit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="12_expressionSplit.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="13_matchTheDates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="13_matchTheDates.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.03_checkStringStartsWithGivenSubstring..js">
     <configuration default="false" name="14_parseTheEmployeeData.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="14_parseTheEmployeeData.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
     <configuration default="false" name="15_formFiller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="15_formFiller.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="01_splitStringWithDelimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01_splitStringWithDelimiter.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="02_repeatStringNTimes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="02_repeatStringNTimes.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="03_checkStringStartsWithGivenSubstring..js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_checkStringStartsWithGivenSubstring..js" working-dir="$PROJECT_DIR$/Exercises">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -297,19 +315,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.12_expressionSplit.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.13_matchTheDates.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.15_formFiller.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.15_formFiller.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01_splitStringWithDelimiter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02_repeatStringNTimes.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03_checkStringStartsWithGivenSubstring..js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.15_formFiller.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.13_matchTheDates.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.12_expressionSplit.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.11_simpleEmailValidation.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03_checkStringStartsWithGivenSubstring..js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02_repeatStringNTimes.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01_splitStringWithDelimiter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.15_formFiller.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.14_parseTheEmployeeData.js" />
       </list>
     </recent_temporary>
   </component>
@@ -335,11 +353,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42162162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42162162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39983094" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39891893" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -372,10 +390,19 @@
           <line>14</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exercises/03_checkStringStartsWithGivenSubstring..js</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="string.substring(0, substring.length)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab/01_printLetters.js">
@@ -520,8 +547,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab/15_formFiller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6932271">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/01_splitStringWithDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/02_repeatStringNTimes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/03_checkStringStartsWithGivenSubstring..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7808765">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
