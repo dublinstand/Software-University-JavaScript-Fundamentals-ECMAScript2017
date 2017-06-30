@@ -6,17 +6,26 @@
 
 
 function findVariableNamesInSentences([input]){
+    let result = [];
     // \b - разстояние преди думата и след думата
-    let regEx = /\b_([A-Za-z0-9]+)\b/g;
+    //because here we use a string we need to escape \ with another \
+    let pattern = '\\b_([A-Za-z0-9]+)\\b';
 
-    let empty = [];
-    let match;
+    //we create a regular expression, that is global
+    let regExp = RegExp(pattern, 'g');
 
-    while ( match = regEx.exec(input)) {
+    //we get the 0 item as the whole match and the next item (which is 1) as the first group ([A-Za-z0-9]+)
+    let match = regExp.exec(input);
+
+    //if a match is not found, match will be null and it won't be true
+    while (match) {
         //take the second item which is the first group of matches. the first item is the whole match
-        empty.push(match[1]);
+        result.push(match[1]);
+
+        //by using the same exec(input) we get the next match (if any) from the point where we have finished the previous time
+        match = regExp.exec(input);
     }
-    return empty.join(',')
+    return result.join(', ')
 }
 console.log(findVariableNamesInSentences(['Calculate the _area of the _perfectRectangle object.']));
 console.log(findVariableNamesInSentences(['__invalidVariable _evenMoreInvalidVariable_ _validVariable']));
