@@ -31,4 +31,4 @@ function formFiller(data){
 
 formFiller((['pit', 'pit@pit.com', '032746',
         'I am <!user!>, my email is <@email@>, my phone is <+p+>.'])
-)
+);
