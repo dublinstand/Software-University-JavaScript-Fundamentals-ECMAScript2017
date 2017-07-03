@@ -26,7 +26,7 @@ function htmlEscape(str) {
             result += '&quot;';
         }
         else if (ch == '&') {
-            result += '&amp';
+            result += '&amp;';
         }
         else if (ch == '\'') {
             result += '&#39;';
