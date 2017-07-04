@@ -7,7 +7,10 @@
 
 function countWordsWithMaps(input) {
     let wordCount = new Map();
-    let words = input.split(/[^A-Za-z0-9]+/g).filter(t => t != '');
+    //create an array and put all string to lower case,
+    // split them by everything that is different than A-Za-z0-9_ by using ^ and filter(remove the empty lines
+    let words = input.join(`\n`).toLowerCase()
+        .split(/[^A-Za-z0-9_]+/g).filter(t => t != '');
 
 
     for (let w of words) {
@@ -15,12 +18,14 @@ function countWordsWithMaps(input) {
         wordCount.has(w) ? wordCount.set(w, wordCount.get(w) + 1) : wordCount.set(w, 1);
     }
 
+    //we create an array from the wordCount keys and sort them alphabetically
     let allWords = Array.from(wordCount.keys()).sort();
+
+    //for each key from the sorted array alloWords, get the value from the wordCount Map() and print it
     allWords.forEach(w =>
         console.log(`'${w}' -> ${wordCount.get(w)} times`));
-
-
 }
 
-
-countWordsWithMaps('Far too slow, you\'re far too slow.');
+countWordsWithMaps(['Far too slow, you\'re far too slow.']);
+countWordsWithMaps(['JS devs use Node.js for server-side JS.-- JS for devs.']);
+countWordsWithMaps(['JS and Node.js', 'JS again and again', 'Oh, JS?']);

@@ -27,5 +27,4 @@ function sumByTown(arr) {
     return JSON.stringify(sums);
 }
 
-
 console.log(sumByTown(['Sofia', '20', 'Varna', '3', 'Sofia', '5', 'Varna', '4']));
