@@ -13,7 +13,6 @@
 //...”
 //The order of output for each of those entries is – by order of entrance.
 
-
 function cityMarkets(input) {
     let townsWithProducts = new Map();
 
