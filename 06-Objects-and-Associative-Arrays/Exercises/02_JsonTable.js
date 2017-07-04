@@ -7,8 +7,20 @@
 //The output is the HTML code of a table which holds the data exactly as explained above.
 // Check the examples for more info.
 
-function jsonTable(){
+function jsonTable(input){
+    let html = "<table>\n";
 
+    for(let line of input){
+        line = JSON.parse(line);
+        html += "  <tr>\n";
+        html +=`    <td>${line['name']}</td>\n`;
+        html +=`    <td>${line['position']}</td>\n`;
+        html +=`    <td>${line['salary']}</td>\n`;
+        html += "  </tr>\n";
+    }
+
+    html += "</table>";
+    return html;
 }
 
 console.log(jsonTable([
