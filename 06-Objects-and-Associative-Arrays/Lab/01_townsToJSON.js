@@ -5,18 +5,18 @@
 //The output should be printed on the console - for each entry row in the input print the object representing it.
 
 
-function townsToJSON(input){
+function townsToJSON(input) {
 
     //remove the first line which is the heading
     let towns = input.slice(1);
     let townArray = [];
 
     //for each record in towns
-    for (let town of towns){
+    for (let town of towns) {
         //split by regex ( | and empty spaces), so that we don't need to trim the records
         //we get name as first variable, lat and lng as second and third from the input
         let [name, lat, lng] = town.split(/\s*\|\s*/)
-        .filter(x => x != '');
+            .filter(x => x != '');
 
         //create an object with properties Town, Latitude and Longitude and assign to them the variables from the input line
         let townObj = {

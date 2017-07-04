@@ -6,16 +6,15 @@
 //The output should be printed on the console - a table with 2 columns - "name" and "score", containing the values from the objects as rows.
 
 
-
-function scoreToHtml(input){
+function scoreToHtml(input) {
     let scoreArr = JSON.parse(input);
     let html = "<table>\n";
     html += "  <tr><th>name</th><th>score</th></tr>\n";
 
-    for(let score of scoreArr){
+    for (let score of scoreArr) {
         html += `  <tr><td>${htmlEscape(score["name"])}</td><td>${htmlEscape(score["score"])}</td></tr>\n`;
     }
-    html += "</table>"
+    html += "</table>";
 
     return html;
 }

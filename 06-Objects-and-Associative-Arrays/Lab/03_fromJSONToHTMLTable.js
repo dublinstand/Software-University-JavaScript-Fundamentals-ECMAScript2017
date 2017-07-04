@@ -7,22 +7,22 @@
 //The output should be printed on the console - for each entry row in the input print the object representing it.
 
 
-function fromJSONToHTMLTable([jsonArray]){
+function fromJSONToHTMLTable([jsonArray]) {
     let strArr = JSON.parse(jsonArray);
     let html = "<table>\n";
     html += "  <tr>";
 
     //we get the keys for each value to put in the header
-    for(let key of Object.keys(strArr[0])){
+    for (let key of Object.keys(strArr[0])) {
         html += `<th>${htmlEscape(key)}`
     }
     html += "</tr>\n";
 
-    for(let obj of strArr){
+    for (let obj of strArr) {
         html += "  <tr>";
 
         //because the keys can be different for each test we get the value from the Object.keys for each object
-        for (let value of Object.keys(obj)){
+        for (let value of Object.keys(obj)) {
             html += '<td>' + htmlEscape(obj[value]) + '</td>';
         }
 

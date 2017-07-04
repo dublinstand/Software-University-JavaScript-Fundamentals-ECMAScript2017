@@ -5,20 +5,20 @@
 //The output should be printed on the console - JSON representation of the object containing all towns and their total incomes.
 
 
-function sumByTown(arr){
+function sumByTown(arr) {
     let sums = {};
 
     for (let i = 0; i < arr.length; i += 2) {
 
         //create an array for town and income and each even number is town, each odd is income
         //for the income parse it to Number
-        let[town, income] = [arr[i], Number(arr[i + 1])];
+        let [town, income] = [arr[i], Number(arr[i + 1])];
 
         //if the sums array does not have the town value assign income to that town
-        if (sums[town] == undefined){
+        if (sums[town] == undefined) {
             sums[town] = income;
         }
-        else{
+        else {
             //if it has town and income already assigned, just add the new income
             sums[town] += income;
         }
@@ -28,4 +28,4 @@ function sumByTown(arr){
 }
 
 
-console.log(sumByTown(['Sofia','20','Varna','3','Sofia','5','Varna','4']));
+console.log(sumByTown(['Sofia', '20', 'Varna', '3', 'Sofia', '5', 'Varna', '4']));

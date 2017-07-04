@@ -5,15 +5,14 @@
 //The output should be printed on the console - print each word in the map in the format "'<word>' -> <count> times", each on a new line.
 
 
-function countWordsWithMaps(input){
+function countWordsWithMaps(input) {
     let wordCount = new Map();
     let words = input.split(/[^A-Za-z0-9]+/g).filter(t => t != '');
 
 
-
-    for(let w of words){
+    for (let w of words) {
         //if there is a record with key  w in word count, add one to its value, else set a new record for w and assign value of 1
-        wordCount.has(w) ? wordCount.set(w, wordCount.get(w)+1) : wordCount.set(w, 1);
+        wordCount.has(w) ? wordCount.set(w, wordCount.get(w) + 1) : wordCount.set(w, 1);
     }
 
     let allWords = Array.from(wordCount.keys()).sort();
