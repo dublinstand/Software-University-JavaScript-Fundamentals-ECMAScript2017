@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_townsToJSON.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="01_townsToJSON.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab/01_townsToJSON.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.27704486">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -45,14 +45,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_fromJSONToHTMLTable.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03_fromJSONToHTMLTable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab/03_fromJSONToHTMLTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.08707124">
+            <state vertical-scroll-proportion="0.0">
               <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <marker date="1499093813599" expanded="true" signature="882:2024" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_sumByTown.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab/04_sumByTown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_countWordsInText.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab/05_countWordsInText.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_countWordsWithMaps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab/06_countWordsWithMaps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,6 +110,9 @@
         <option value="$PROJECT_DIR$/Lab/02_scoreToHtml.js" />
         <option value="internal/process/next_tick.js" />
         <option value="$PROJECT_DIR$/Lab/03_fromJSONToHTMLTable.js" />
+        <option value="$PROJECT_DIR$/Lab/04_sumByTown.js" />
+        <option value="$PROJECT_DIR$/Lab/05_countWordsInText.js" />
+        <option value="$PROJECT_DIR$/Lab/06_countWordsWithMaps.js" />
       </list>
     </option>
   </component>
@@ -153,14 +192,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.03_fromJSONToHTMLTable.js">
-    <configuration default="false" name="01_townsToJSON.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01_townsToJSON.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
-    <configuration default="false" name="02_scoreToHtml.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="02_scoreToHtml.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.01_townsToJSON.js">
     <configuration default="false" name="03_fromJSONToHTMLTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_fromJSONToHTMLTable.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="04_sumByTown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="04_sumByTown.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="05_countWordsInText.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="05_countWordsInText.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="06_countWordsWithMaps.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="06_countWordsWithMaps.js" working-dir="$PROJECT_DIR$/Lab">
+      <method />
+    </configuration>
+    <configuration default="false" name="01_townsToJSON.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01_townsToJSON.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -195,16 +240,20 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01_townsToJSON.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02_scoreToHtml.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03_fromJSONToHTMLTable.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03_fromJSONToHTMLTable.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04_sumByTown.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05_countWordsInText.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.06_countWordsWithMaps.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.01_townsToJSON.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03_fromJSONToHTMLTable.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.02_scoreToHtml.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.01_townsToJSON.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01_townsToJSON.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06_countWordsWithMaps.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05_countWordsInText.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04_sumByTown.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03_fromJSONToHTMLTable.js" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +268,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1308" extended-state="0" />
+    <frame x="2391" y="-9" width="2418" height="1308" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -227,7 +276,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33136094" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33136094" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -251,20 +300,58 @@
           <url>file://$PROJECT_DIR$/Lab/03_fromJSONToHTMLTable.js</url>
           <line>15</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lab/05_countWordsInText.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="Object.keys(strArr[0])" />
+        <watch expression="word" />
+        <watch expression="sumsCount[word]" />
+        <watch expression="sumsCount" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab/01_townsToJSON.js">
+    <entry file="file://$PROJECT_DIR$/Lab/03_fromJSONToHTMLTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1499093813599" expanded="true" signature="882:2024" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/04_sumByTown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/05_countWordsInText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/06_countWordsWithMaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -281,13 +368,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/03_fromJSONToHTMLTable.js">
+    <entry file="file://$PROJECT_DIR$/Lab/01_townsToJSON.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08707124">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.27704486">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1499093813599" expanded="true" signature="882:2024" placeholder="..." />
           </folding>
         </state>
       </provider>
