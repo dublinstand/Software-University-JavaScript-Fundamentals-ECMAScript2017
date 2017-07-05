@@ -17,12 +17,14 @@ function cappyJuice(input) {
         let [fruit, quantity] = item.split(/\s*=>\s*/).filter(w => w != '');
         quantity = Number(quantity);
 
-        if(!juiceInfo.has(fruit)){
-            juiceInfo.set(fruit, quantity);
-        }
-        else{
-            juiceInfo.set(fruit, juiceInfo.get(fruit) + quantity);
-        }
+        juiceInfo.has(fruit) ? juiceInfo.set(fruit, juiceInfo.get(fruit) + quantity) : juiceInfo.set(fruit, quantity);
+
+        //if(!juiceInfo.has(fruit)){
+        //    juiceInfo.set(fruit, quantity);
+        //}
+        //else{
+        //    juiceInfo.set(fruit, juiceInfo.get(fruit) + quantity);
+        //}
     }
 
     for (let [key, value] of juiceInfo){
