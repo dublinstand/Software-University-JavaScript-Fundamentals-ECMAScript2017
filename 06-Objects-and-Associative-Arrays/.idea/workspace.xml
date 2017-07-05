@@ -105,11 +105,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_cappyJuice.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03_cappyJuice.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/03_cappyJuice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.528">
+            <state vertical-scroll-proportion="0.0">
               <caret line="42" column="1" selection-start-line="36" selection-start-column="4" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_storeCatalogue.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/04_storeCatalogue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.508">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -142,6 +154,7 @@
         <option value="$PROJECT_DIR$/Exercises/01_heroicInventory.js" />
         <option value="$PROJECT_DIR$/Exercises/02_JsonTable.js" />
         <option value="$PROJECT_DIR$/Exercises/03_cappyJuice.js" />
+        <option value="$PROJECT_DIR$/Exercises/04_storeCatalogue.js" />
       </list>
     </option>
   </component>
@@ -235,10 +248,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.03_cappyJuice.js">
-    <configuration default="false" name="08_cityMarkets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="08_cityMarkets.js" working-dir="$PROJECT_DIR$/Lab">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.04_storeCatalogue.js">
     <configuration default="false" name="09_extractUniqueWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="09_extractUniqueWords.js" working-dir="$PROJECT_DIR$/Lab">
       <method />
     </configuration>
@@ -249,6 +259,9 @@
       <method />
     </configuration>
     <configuration default="false" name="03_cappyJuice.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="03_cappyJuice.js" working-dir="$PROJECT_DIR$/Exercises">
+      <method />
+    </configuration>
+    <configuration default="false" name="04_storeCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="04_storeCatalogue.js" working-dir="$PROJECT_DIR$/Exercises">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,19 +301,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.06_countWordsWithMaps.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.08_cityMarkets.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.09_extractUniqueWords.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.01_heroicInventory.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.02_JsonTable.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.03_cappyJuice.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.09_extractUniqueWords.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01_heroicInventory.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02_JsonTable.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03_cappyJuice.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.04_storeCatalogue.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03_cappyJuice.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.02_JsonTable.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.01_heroicInventory.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.09_extractUniqueWords.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.08_cityMarkets.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04_storeCatalogue.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03_cappyJuice.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.02_JsonTable.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01_heroicInventory.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.09_extractUniqueWords.js" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -415,16 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/06_countWordsWithMaps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab/05_countWordsInText.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -455,6 +458,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/07_populationsInTowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/03_cappyJuice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="1" selection-start-line="36" selection-start-column="4" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab/06_countWordsWithMaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab/09_extractUniqueWords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -475,20 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab/07_populationsInTowns.js">
+    <entry file="file://$PROJECT_DIR$/Exercises/04_storeCatalogue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/03_cappyJuice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.528">
-          <caret line="42" column="1" selection-start-line="36" selection-start-column="4" selection-end-line="42" selection-end-column="1" />
+        <state vertical-scroll-proportion="-1.508">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
