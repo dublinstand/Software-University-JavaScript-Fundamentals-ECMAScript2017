@@ -37,7 +37,7 @@ function storeCatalogue(input){
 
     //function for sorting alphabetically
     function alphabeticalSort(a, b) {
-        return a[0].localeCompare(b[0])
+        return a[0].toLowerCase().localeCompare(b[0].toLowerCase())
     }
 
     //first sort them alphabetically by first letter, by creating an array for the catalogue
@@ -67,3 +67,49 @@ storeCatalogue([
    'Anti-Bug Spray : 15',
    'T-Shirt : 10'
 ]);
+
+function compare(){
+    var a = new Map();
+    a.set("Apple", "Sweet");
+    a.set("Lemon", "Sour");
+
+    function compare(a, b){
+        //we compare the length of the second item in the array (Sweet and Sour)
+        let result = a[1].length - b[1].length;
+
+        //if the length is equal compare their string values (order them alphabetically)
+        if(result === 0){
+            result = a[1].localeCompare(b[1]);
+        }
+
+        //we need to return the result
+        return result;
+    }
+}
+
+function compareHighestPricesPerLetterGroup(a, b){
+    //the variables where we store our highest price
+    let aBiggestPrice = Number.NEGATIVE_INFINITY;
+    let bBiggestPrice = Number.NEGATIVE_INFINITY;
+
+    //we have a Map {firstLetter, new Map{product, price}}
+    //with a[1] we get the Map in the Map
+    a[1].forEach((val, key) => {
+            //we check for the biggest price from all values in the Map object and store them in aBiggestPrice
+            if(val > aBiggestPrice){
+                aBiggestPrice = val;
+            }
+        }
+    );
+
+    b[1].forEach((val, key) => {
+            //we check for the biggest price from all values in the Map object and store them in bBiggestPrice
+            if(val > bBiggestPrice){
+                bBiggestPrice = val;
+            }
+        }
+    );
+
+    //now we return the compare between a and b
+    return aBiggestPrice - bBiggestPrice;
+}
