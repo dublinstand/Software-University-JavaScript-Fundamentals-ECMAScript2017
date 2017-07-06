@@ -17,7 +17,31 @@
 
 
 function autoEngineeringCompany(input){
+    let autoMap = new Map();
 
+    for(let record of input){
+        let[brand, model, producedCars] = record.split(/\s*\|\s*/);
+        producedCars = Number(producedCars);
+
+        if(!autoMap.has(brand)){
+            autoMap.set(brand, new Map());
+        }
+
+        if(!autoMap.get(brand).has(model)){
+            autoMap.get(brand).set(model, producedCars)
+        }
+        else{
+            autoMap.get(brand).set(model, producedCars + autoMap.get(brand).get(model));
+        }
+    }
+
+    for(let [brand, cars] of autoMap){
+        console.log(brand);
+
+        for(let [make, producedCars] of cars){
+            console.log(`###${make} -> ${producedCars}`);
+        }
+    }
 }
 
 autoEngineeringCompany([
